@@ -1,7 +1,7 @@
 #include "std_lib_facilities.h"
 #include <iostream>
 
-int main() {
+int main() { 
   int input;
 	cin >> input;
 	String evenOrOdd;
